@@ -13,6 +13,12 @@
   "homepage": "https://github.com/AustinCodingAcademy/frontend-intermediate-workbook#readme",
   "dependencies": {
     "colors": "^1.1.2",
-    "prompt": "^0.2.14"
+    "mocha": "^2.4.5",
+    "prompt": "^0.2.14",
+    "zombie": "^4.2.1"
+  },
+
+  "scripts": {
+    "mocha": "mocha"
   }
 }
