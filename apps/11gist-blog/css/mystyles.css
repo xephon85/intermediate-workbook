@@ -1,0 +1,20 @@
+body{
+  background-color:black;
+}
+
+.heading{
+  background-color:blue;
+  color:yellow;
+  border:solid white 2px;
+}
+.myContent{
+  background-color:yellow;
+  color:blue;
+}
+.myLinks{
+  background-color:white;
+  color:red;
+}
+#links a{
+  color:red;
+}
